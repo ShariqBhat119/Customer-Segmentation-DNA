@@ -4,7 +4,7 @@
 
 Most retailers treat every customer the same way — no distinction between a top-spending regular and someone who bought once and never came back. Customer DNA fixes that: upload a transaction dataset, and it runs a full RFM (Recency, Frequency, Monetary) analysis, clusters customers with K-Means, and translates the output into plain-language segments and next-best-actions a business team can act on immediately — no data-science background required.
 
-> 🔗 **Live app:** _add your Streamlit Community Cloud link here once deployed_
+> 🔗 **Live app:**[customer-dna.streamlit.app](https://customer-dna.streamlit.app/)
 
 ---
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens at `http://localhost:8501`. Upload a dataset in the sidebar to get started.
+The app opens at https://customer-dna.streamlit.app/. Upload a dataset in the sidebar to get started.
 
 ## Project structure
 
